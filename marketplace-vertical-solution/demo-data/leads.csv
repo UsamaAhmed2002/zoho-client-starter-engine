@@ -1,0 +1,21 @@
+Lead Name,Company,Email,Phone,Lead Type,Lead Source,Inquiry Channel,Budget Min,Budget Max,Desired Location,Property Type,Bedrooms,Bathrooms,Timeline,Financing Status,Urgency,Preferred Contact Method,Lead Quality,Lead Status
+Amelia Carter,,amelia.carter@example.com,+1-555-0101,Buyer,Website,Form,450000,650000,Downtown,Condo,2,2,0-30 Days,Pre-approved,Hot,Call,A,New
+Ryan Mitchell,,ryan.mitchell@example.com,+1-555-0102,Buyer,Zillow,Form,700000,900000,Westside,House,4,3,1-3 Months,Needs Financing,Warm,Email,B,Contacted
+Sophia Nguyen,,sophia.nguyen@example.com,+1-555-0103,Seller,Referral,Call,,,,House,,,3-6 Months,Unknown,Warm,Call,B,Qualified
+Daniel Brooks,,daniel.brooks@example.com,+1-555-0104,Renter,Facebook Lead Ad,Social,2500,3500,Midtown,Apartment,2,2,Immediately,Unknown,Hot,WhatsApp,A,New
+Priya Shah,,priya.shah@example.com,+1-555-0105,Investor,Google Ad,Form,1000000,1800000,North Hills,Commercial,,,1-3 Months,Cash Buyer,Hot,Email,A,Qualified
+Marcus Lee,,marcus.lee@example.com,+1-555-0106,Buyer,Open House,Manual Import,350000,500000,East Park,Townhome,3,2,3-6 Months,Needs Financing,Cold,SMS,C,Nurture
+Olivia Bennett,,olivia.bennett@example.com,+1-555-0107,Seller,Phone Call,Call,,,,Condo,,,0-30 Days,Unknown,Hot,Call,A,New
+Ethan Walker,,ethan.walker@example.com,+1-555-0108,Buyer,Realtor.com,Form,550000,725000,Riverside,House,3,2,1-3 Months,Pre-approved,Warm,Email,B,Contacted
+Maya Rodriguez,,maya.rodriguez@example.com,+1-555-0109,Renter,Website,Chat,1800,2600,Central,Apartments,1,1,Immediately,Unknown,Warm,WhatsApp,B,New
+Noah Kim,,noah.kim@example.com,+1-555-0110,Landlord,Referral,Email,,,,Apartment,,,6+ Months,Unknown,Cold,Email,C,Nurture
+Grace Wilson,,grace.wilson@example.com,+1-555-0111,Buyer,Walk-in,Manual Import,800000,1100000,Lakeview,House,4,4,0-30 Days,Cash Buyer,Hot,Call,A,Qualified
+Liam Davis,,liam.davis@example.com,+1-555-0112,Seller,Website,Form,,,,Townhome,,,1-3 Months,Unknown,Warm,Call,B,Contacted
+Hannah Patel,,hannah.patel@example.com,+1-555-0113,Buyer,WhatsApp,WhatsApp,300000,450000,South Gate,Condo,2,1,3-6 Months,Needs Financing,Cold,WhatsApp,C,New
+Jacob Turner,,jacob.turner@example.com,+1-555-0114,Investor,Google Ad,Form,2000000,3500000,Downtown,Retail,,,1-3 Months,Cash Buyer,Hot,Email,A,Contacted
+Isabella Moore,,isabella.moore@example.com,+1-555-0115,Renter,Apartments.com,Form,2200,3200,Westside,Apartment,2,2,Immediately,Unknown,Hot,SMS,A,New
+Lucas Green,,lucas.green@example.com,+1-555-0116,Buyer,Referral,Call,600000,850000,Old Town,House,3,3,6+ Months,Pre-approved,Cold,Call,B,Nurture
+Ava Martin,,ava.martin@example.com,+1-555-0117,Seller,Open House,Manual Import,,,,House,,,0-30 Days,Unknown,Hot,Email,A,Qualified
+Benjamin Scott,,benjamin.scott@example.com,+1-555-0118,Buyer,Zillow,Form,400000,575000,Midtown,Condo,2,2,1-3 Months,Needs Financing,Warm,SMS,B,Contacted
+Chloe Adams,,chloe.adams@example.com,+1-555-0119,Renter,Facebook Lead Ad,Social,1500,2100,East Park,Apartment,1,1,Immediately,Unknown,Warm,WhatsApp,B,New
+Samuel King,,samuel.king@example.com,+1-555-0120,Buyer,Website,Form,900000,1200000,North Hills,House,4,3,3-6 Months,Pre-approved,Warm,Email,B,Qualified

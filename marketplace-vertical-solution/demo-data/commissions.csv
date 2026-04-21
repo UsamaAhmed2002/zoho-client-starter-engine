@@ -1,0 +1,4 @@
+Commission Name,Deal,Booking,Agent,Commission Type,Gross Commission,Agent Split %,Agent Commission,Payout Status,Payout Date,Finance Notes
+COM-001 Grace Lakeview Estate,Grace Wilson - Lakeview Estate,BK-001 Grace Lakeview Estate,Jordan Blake,Sale,49500,50,24750,Pending,,Pay after closing
+COM-002 Ava Midtown Penthouse,Ava Martin - Seller Listing,BK-002 Ava Midtown Penthouse,Jordan Blake,Sale,29400,50,14700,Approved,2026-05-05,Approved after signed agreement
+COM-003 Daniel Midtown Rental,Daniel Brooks - Midtown Rental,BK-003 Daniel Midtown Rental,Alex Rivera,Rental,3100,60,1860,Pending,,Pay after tenant move-in

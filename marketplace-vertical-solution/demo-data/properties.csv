@@ -1,0 +1,16 @@
+Property Name,Property Code,Property Status,Listing Type,Property Type,Address,City,Area / Community,Bedrooms,Bathrooms,Size,Asking Price,Rent Amount,Owner Contact,Listing Agent,Available From,Listing URL
+Downtown Skyline Condo,PROP-001,Available,Sale,Condo,"120 Market Street Unit 1804",Metro City,Downtown,2,2,1180,625000,,Sophia Nguyen,Alex Rivera,2026-05-01,https://example.com/properties/prop-001
+Westside Family Home,PROP-002,Available,Sale,House,"44 Garden Avenue",Metro City,Westside,4,3,2450,875000,,Evelyn Stone,Mia Chen,2026-04-25,https://example.com/properties/prop-002
+Midtown Rental Apartment,PROP-003,Available,Rent,Apartment,"830 Center Road Apt 7B",Metro City,Midtown,2,2,980,,3100,Noah Kim,Alex Rivera,2026-04-22,https://example.com/properties/prop-003
+North Hills Executive House,PROP-004,Under Offer,Sale,House,"19 Ridgeview Lane",Metro City,North Hills,4,4,3200,1150000,,Ava Martin,Jordan Blake,2026-05-15,https://example.com/properties/prop-004
+Riverside Starter Home,PROP-005,Available,Sale,House,"75 River Bend Drive",Metro City,Riverside,3,2,1650,695000,,Liam Davis,Mia Chen,2026-04-30,https://example.com/properties/prop-005
+Central Studio Loft,PROP-006,Available,Rent,Apartment,"501 Central Plaza Apt 303",Metro City,Central,1,1,610,,1950,Noah Kim,Sam Patel,2026-04-23,https://example.com/properties/prop-006
+Old Town Townhome,PROP-007,Available,Sale,Townhome,"12 Heritage Court",Metro City,Old Town,3,3,1800,790000,,Sophia Nguyen,Sam Patel,2026-06-01,https://example.com/properties/prop-007
+Lakeview Estate,PROP-008,Booked,Sale,House,"8 Lakeview Circle",Metro City,Lakeview,5,5,4200,1650000,,Ava Martin,Jordan Blake,2026-05-10,https://example.com/properties/prop-008
+East Park Condo,PROP-009,Available,Sale,Condo,"310 Parkside Way Unit 402",Metro City,East Park,2,1,850,430000,,Sophia Nguyen,Mia Chen,2026-04-28,https://example.com/properties/prop-009
+South Gate Condo,PROP-010,Available,Sale,Condo,"90 South Gate Drive Unit 1201",Metro City,South Gate,2,2,990,455000,,Liam Davis,Alex Rivera,2026-05-03,https://example.com/properties/prop-010
+Downtown Retail Space,PROP-011,Available,Lease,Retail,"22 Commerce Row",Metro City,Downtown,,,2100,2100000,,Metro Holdings,Jordan Blake,2026-05-20,https://example.com/properties/prop-011
+North Hills Office Suite,PROP-012,Available,Lease,Office,"700 Summit Tower Suite 900",Metro City,North Hills,,,1800,1350000,,Metro Holdings,Sam Patel,2026-05-05,https://example.com/properties/prop-012
+Westside Garden Condo,PROP-013,Sold,Sale,Condo,"62 Garden Avenue Unit 2C",Metro City,Westside,2,2,1050,590000,,Evelyn Stone,Mia Chen,2026-04-01,https://example.com/properties/prop-013
+Riverside Rental Duplex,PROP-014,Available,Rent,House,"24 River Mill Road",Metro City,Riverside,3,2,1500,,3600,Noah Kim,Alex Rivera,2026-05-01,https://example.com/properties/prop-014
+Midtown Penthouse,PROP-015,Under Offer,Sale,Condo,"100 Center Road PH2",Metro City,Midtown,3,3,2100,980000,,Sophia Nguyen,Jordan Blake,2026-05-12,https://example.com/properties/prop-015

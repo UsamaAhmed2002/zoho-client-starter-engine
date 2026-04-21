@@ -1,0 +1,11 @@
+Deal Name,Deal Type,Stage,Amount,Related Property,Buyer / Client,Assigned Agent,Budget Min,Budget Max,Target Location,Expected Commission,Close Probability,Next Action,Next Action Due,Lead Source
+Amelia Carter - Downtown Condo,Buyer,Property Matched,625000,Downtown Skyline Condo,Amelia Carter,Alex Rivera,450000,650000,Downtown,18750,45,Send two condo options,2026-04-22,Website
+Ryan Mitchell - Westside Home,Buyer,Qualified,875000,Westside Family Home,Ryan Mitchell,Mia Chen,700000,900000,Westside,26250,30,Confirm financing status,2026-04-23,Zillow
+Daniel Brooks - Midtown Rental,Rental,Site Visit Scheduled,3100,Midtown Rental Apartment,Daniel Brooks,Alex Rivera,2500,3500,Midtown,3100,50,Confirm site visit time,2026-04-22,Facebook Lead Ad
+Priya Shah - Downtown Retail,Investor,Negotiation,2100000,Downtown Retail Space,Priya Shah,Jordan Blake,1000000,1800000,Downtown,63000,60,Review counter offer,2026-04-24,Google Ad
+Grace Wilson - Lakeview Estate,Buyer,Booking / Agreement,1650000,Lakeview Estate,Grace Wilson,Jordan Blake,800000,1100000,Lakeview,49500,80,Collect deposit proof,2026-04-22,Walk-in
+Ethan Walker - Riverside Home,Buyer,Site Visit Completed,695000,Riverside Starter Home,Ethan Walker,Mia Chen,550000,725000,Riverside,20850,55,Collect visit feedback,2026-04-22,Realtor.com
+Olivia Bennett - Seller Listing,Seller Listing,Contacted,0,,Olivia Bennett,Sam Patel,,,Downtown,0,20,Book listing consultation,2026-04-23,Phone Call
+Jacob Turner - Retail Investment,Investor,Offer Sent,2100000,Downtown Retail Space,Jacob Turner,Jordan Blake,2000000,3500000,Downtown,63000,65,Follow up on offer,2026-04-25,Google Ad
+Isabella Moore - Westside Rental,Rental,New Inquiry,3200,,Isabella Moore,Sam Patel,2200,3200,Westside,3200,15,Call new rental lead,2026-04-21,Apartments.com
+Ava Martin - Seller Listing,Seller Listing,Closed Won,980000,Midtown Penthouse,Ava Martin,Jordan Blake,,,Midtown,29400,100,Review commission payout,2026-04-24,Open House

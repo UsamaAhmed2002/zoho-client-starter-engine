@@ -1,0 +1,4 @@
+Booking Name,Deal,Property,Client,Booking Status,Booking Amount,Deposit Amount,Agreement Status,Payment Status,Booking Date,Closing Date,Admin Notes
+BK-001 Grace Lakeview Estate,Grace Wilson - Lakeview Estate,Lakeview Estate,Grace Wilson,Deposit Pending,1650000,50000,Sent,Pending,2026-04-21,2026-05-15,Awaiting deposit confirmation
+BK-002 Ava Midtown Penthouse,Ava Martin - Seller Listing,Midtown Penthouse,Ava Martin,Confirmed,980000,30000,Signed,Paid,2026-04-15,2026-05-01,Commission review pending
+BK-003 Daniel Midtown Rental,Daniel Brooks - Midtown Rental,Midtown Rental Apartment,Daniel Brooks,Documents Pending,3100,3100,Drafted,Pending,2026-04-22,2026-04-29,Need ID and employment letter
